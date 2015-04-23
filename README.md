@@ -10,4 +10,6 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 
 04/23/15 - Understanding GIT
 
-04/23/15 - Understanding GIT - second set of changes
+04/23/15 - Understanding GIT - Did you finally get this the third time?
+
+04/23/15 - Understanding GIT - Let us find out.
